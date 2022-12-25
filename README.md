@@ -1,7 +1,7 @@
-### Hello world 👋
+### Aloha world 👋
 
 ## Present
-⭐ I’m currently working personal projects and looking to collaborate on meaningful impact projects
+⭐ I’m currently working in https://github.com/vas-dev.
 
 ## Skills:
 
