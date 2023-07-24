@@ -1,7 +1,7 @@
-### Hello 👋
+### Hello there 👋
 
 ## Present
-I’m currently working in https://web.vas.com.
+I’m currently working in [https://web.vas.com.](https://www.thanx.com/)
 
 ## Tech:
 
